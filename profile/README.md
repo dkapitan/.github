@@ -4,7 +4,7 @@
 
 I suppose you came here to find out who I am and what I do.
 
-My wife says I am a tree hugging hacker (in Dutch: _geitenwollensokken nerd_), which I think is pretty accurate.
+My wife says I am a tree-hugging hacker (in Dutch: _geitenwollensokken nerd_), which I think is pretty accurate.
 
 I spend most of my working days on something related to data science, data architecture and platform engineering. I teach at [EAISI Academy Professional Education](https://www.tue.nl/en/education/professional-education/current-programs/eaisi-academy). I try to keep track of interesting teaching materials by collating an [anthology of data science](https://anthology-of-data.science).
 
