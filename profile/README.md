@@ -1,5 +1,3 @@
-<img align="right" width=400 src="https://github.com/dkapitan/.github/blob/main/profile/wisent.png?raw=true">
-
 #### Hi there 👋. Thanks for stopping by.
 
 I suppose you came here to find out who I am and what I do.
