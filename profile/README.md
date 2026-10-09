@@ -1,3 +1,6 @@
+
+![](logo-dao-of-data-small.png)
+
 #### Hi there 👋. Thanks for stopping by.
 
 I suppose you came here to find out who I am and what I do.
